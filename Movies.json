@@ -1,0 +1,14 @@
+{
+    "movies": [
+        {
+            "title": "Movie 1",
+            "poster": "assets/movie1.jpg",
+            "stream_url": "streaming/movie1.mp4"
+        },
+        {
+            "title": "Movie 2",
+            "poster": "assets/movie2.jpg",
+            "stream_url": "streaming/movie2.mp4"
+        }
+    ]
+}
